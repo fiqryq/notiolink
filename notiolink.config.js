@@ -16,5 +16,5 @@ module.exports = {
   theme: 'light',
 
   /** REQUIRED CONFIG: Set this to 'false'  */
-  demoMode: 'true',
+  demoMode: 'false',
 };
