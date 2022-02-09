@@ -1,19 +1,19 @@
 module.exports = {
   /** Application Name, will be shown on the index page */
-  appName: 'Notiolink',
+  appName: '@fiqryq_',
 
   /** Description for SEO */
   seoDescription:
-    'Self-hostable branded link shortener built with Next.js & Notion API',
+    'my personal link.',
 
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  deployUrl: 'https://notiolink.thcl.dev',
+  deployUrl: 'http://link.fiqrychoerudin.dev',
 
   /**
    * Color theme for the app
    * @type {'light' | 'dark' | 'milky' | 'street' | 'monokai'}
    */
-  theme: 'dark',
+  theme: 'light',
 
   /** REQUIRED CONFIG: Set this to 'false'  */
   demoMode: 'true',
